@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "yuglify": "0.1.4"
+    },
+    "preferGlobal": true
+}
